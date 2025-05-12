@@ -1,0 +1,40 @@
+.controller.xbox {
+    background: url(https://imgur.com/diewK05.png);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(https://imgur.com/15iW5Cd.png);
+    opacity: 0;
+}
+
+
+.xbox .button {
+    position: absolute;
+    background: url(https://imgur.com/B3xArE3.png);
+    width: 48px;
+    height: 48px;
+}
+
+
+.xbox .stick {
+    position: absolute;
+    background: url(https://imgur.com/D2TptTz.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+
+.xbox .face {
+    background: url(https://imgur.com/YRovkKS.png);
+    position: absolute;
+    opacity: 0;
+}
+
